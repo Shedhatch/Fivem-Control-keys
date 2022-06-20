@@ -1,10 +1,9 @@
 # Fivem-Control-keys
-(ESX)
 
 # Script
-This is just a list of all existing keys in Fivem
+A list of all existing keys in Fivem (Not updated since years!)
 
-# Copyright 
-Script originally from <a href="https://github.com/KingCprey ">HERE</a> 
+# Copyright
+Originally from <a href="https://github.com/KingCprey ">HERE</a> 
 
-I just added some keys that was missing
+I just added some keys that were missing
